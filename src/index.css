@@ -1,0 +1,73 @@
+/* src/App.css */
+/* .container {
+    padding: 20px;
+    max-width: 400px;
+    margin: 50px;
+    font-family: Arial, sans-serif;
+    border: 4px solid #970505;
+    border-radius: 10px;
+    background-color: #a61717;
+    
+} */
+div{
+    padding: 20px;
+    background-color: #e8e8e8;
+    margin: 0 auto;
+    max-width: 466px;
+    border-radius: 19px;
+
+}
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  .result-box {
+    background-color: #a61717; /* Same as the container */
+    color: white; /* Ensure text is visible on the dark background */
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+    border: 1px solid #e0e0e0; /* You can adjust this if needed */
+}
+
+h2 {
+    text-align: center;
+}
+h3{
+    margin-bottom: 34px;
+}
+
+.result{
+    color: rgb(5, 40, 155);
+    background-color: #fff;
+    padding: 7px;
+    border-radius: 12px;
+}
+.modifiedResult{
+    color: rgb(27, 89, 3);
+    background-color: #fff;
+    padding: 7px;
+    border-radius: 12px;
+
+}
